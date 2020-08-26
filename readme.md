@@ -1,13 +1,13 @@
 # StarterKit JavaScript Considition 2020
 This is the StarterKit for Considition 2020, a help to get going as quickly as possible with the competition. The StarterKit contains four main parts.
-
  - **The Main Program:** This is where you implement your solution. There is already an example solution implemented that works out of the box, but you will have to develop it further to get a better score.
  - **The Game Layer:** A wrapper between the API and the Main Program. Helps you with formatting the input to the API and keep an updated game state.
  - **The API:** A representation of the REST-API that the game is played with. Can be used directly or through the Game Layer.
  - **The Game State:** A representation of the Game State and the information about the current game.
 
 Each part us described in greater detail below. The competition itself is also described on [Considition.com/rules](considition.com/rules).
-
+# Installation and running.
+Run *npm install* and run main.js.
 # Main Program
 The Main Program is a simple loop. Each run of the program does the following:
  - Create a new game
