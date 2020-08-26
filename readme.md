@@ -7,7 +7,7 @@ This is the StarterKit for Considition 2020, a help to get going as quickly as p
 
 Each part us described in greater detail below. The competition itself is also described on [Considition.com/rules](considition.com/rules).
 # Installation and running.
-Run *npm install* and run main.js.
+Run *npm install* and run *main.js*.
 # Main Program
 The Main Program is a simple loop. Each run of the program does the following:
  - Create a new game
